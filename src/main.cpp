@@ -8,7 +8,7 @@ int main()
 
     char sym;
     std::cout << u8"Hello World!\n";
-    std::cout << u8"Введите символ:";
+    std::cout << u8"Введите символ енглпго:";
     std::cin >> sym;
 
     return 0;
